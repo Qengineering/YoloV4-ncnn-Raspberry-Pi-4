@@ -4,7 +4,7 @@
 ## YoloV4 with the ncnn framework.
 The frame rate is about 3 FPS (RPi overclocked to 1950 MHz)<br/>
 Paper: https://arxiv.org/pdf/2004.10934.pdf <br/>
-Size: 550x550 <br/><br/>
+Size: 608x608 <br/><br/>
 Special made for a bare Raspberry Pi see https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html <br/>
 ## Dependencies.
 To run the application, you have to:
