@@ -1,5 +1,5 @@
 # YoloV4-ncnn-Raspberry-Pi-64-bit
-![output image]( https://qengineering.eu/images/Yolact_result_zebra.png )
+![output image]( https://qengineering.eu/images/Mumbai_YoloV4.jpg )
 
 ## YoloV4 with the ncnn framework.
 The frame rate is about 3 FPS (RPi overclocked to 1950 MHz)<br/>
