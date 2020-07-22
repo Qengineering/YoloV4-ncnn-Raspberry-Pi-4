@@ -1,8 +1,8 @@
-# YoloV4-ncnn-Raspberry-Pi-64-bit
+# YoloV4-ncnn-Raspberry-Pi-4
 ![output image]( https://qengineering.eu/images/Mumbai_YoloV4.jpg )
 
 ## YoloV4 with the ncnn framework.
-The frame rate is about 3 FPS (RPi overclocked to 1950 MHz)<br/>
+The frame rate is about 3 FPS (RPi 64 bit OS, overclocked to 1950 MHz)<br/>
 Paper: https://arxiv.org/pdf/2004.10934.pdf <br/>
 Size: 608x608 <br/><br/>
 Special made for a bare Raspberry Pi see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
