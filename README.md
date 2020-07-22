@@ -5,12 +5,12 @@
 The frame rate is about 3 FPS (RPi overclocked to 1950 MHz)<br/>
 Paper: https://arxiv.org/pdf/2004.10934.pdf <br/>
 Size: 608x608 <br/><br/>
-Special made for a bare Raspberry Pi see https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html <br/>
+Special made for a bare Raspberry Pi see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
 ## Dependencies.
 To run the application, you have to:
-- A raspberry Pi 4 with a 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. (https://qengineering.eu/install-raspberry-64-os.html) <br/>
-- The Tencent ncnn framework installed. (https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
-- OpenCV 64 bit installed. (https://qengineering.eu/install-opencv-4.3-on-raspberry-64-os.html) <br/>
+- A raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
+- The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
+- OpenCV 64 bit installed. [Install OpenCV 4.3](https://qengineering.eu/install-opencv-4.3-on-raspberry-64-os.html) <br/>
 - Code::Blocks installed.
 ## Running the app.
 To extract and run the network in Code::Blocks <br/>
@@ -28,6 +28,6 @@ YoloV4.cpb <br/>
 yoloV4.cpp <br/>
 yolov4-tiny-opt.bin <br/>
 yol0v4-tiny-opt.param <br/>
-yolov4.bin (download this file from [Gdrive](https://drive.google.com/file/d/1vu3GGOEWh-jmedM-cvoqzhGzaZaOQB9k) )<br/>
+yolov4.bin (download this file from [Gdrive](https://drive.google.com/file/d/1dtkgOUKIeNdKRH5z9uTm-A6SUewjiBrj/view?usp=sharing) )<br/>
 yolov4.param <br/><br/>
 Many thanks to [nihui](https://github.com/nihui/) again!
