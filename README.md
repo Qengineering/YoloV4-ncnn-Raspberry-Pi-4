@@ -1,7 +1,7 @@
 # YoloV4-ncnn-Raspberry-Pi-4
 ![output image]( https://qengineering.eu/images/Mumbai_YoloV4.jpg )
 
-## YoloV4 with the ncnn framework.
+## YoloV4 with the ncnn framework.[License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
 The frame rate is about 3 FPS (RPi 64 bit OS, overclocked to 1950 MHz)<br/>
 Paper: https://arxiv.org/pdf/2004.10934.pdf <br/>
 Size: 608x608 <br/><br/>
@@ -31,5 +31,5 @@ yolov4-tiny-opt.param <br/><br/>
 If you want to run the full YoloV4 version you need: <br/>
 yolov4.bin (download this 245 MB file from [Gdrive](https://drive.google.com/file/d/1dtkgOUKIeNdKRH5z9uTm-A6SUewjiBrj/view?usp=sharing))<br/>
 yolov4.param <br/><br/>
-Many thanks to [nihui](https://github.com/nihui/) again!<br/>
-[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://raw.githubusercontent.com/Tencent/ncnn/master/LICENSE.txt)
+Many thanks to [nihui](https://github.com/nihui/) again!
+
