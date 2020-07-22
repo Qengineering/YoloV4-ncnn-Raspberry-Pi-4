@@ -8,7 +8,7 @@ Size: 608x608 <br/><br/>
 Special made for a bare Raspberry Pi see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
 ## Dependencies.
 To run the application, you have to:
-- A raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
+- A raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
 - OpenCV 64 bit installed. [Install OpenCV 4.3](https://qengineering.eu/install-opencv-4.3-on-raspberry-64-os.html) <br/>
 - Code::Blocks installed.
@@ -28,6 +28,6 @@ YoloV4.cpb <br/>
 yoloV4.cpp <br/>
 yolov4-tiny-opt.bin <br/>
 yol0v4-tiny-opt.param <br/>
-yolov4.bin (download this file from [Gdrive](https://drive.google.com/file/d/1dtkgOUKIeNdKRH5z9uTm-A6SUewjiBrj/view?usp=sharing) )<br/>
+yolov4.bin (download this file from [Gdrive](https://drive.google.com/file/d/1dtkgOUKIeNdKRH5z9uTm-A6SUewjiBrj/view?usp=sharing))<br/>
 yolov4.param <br/><br/>
 Many thanks to [nihui](https://github.com/nihui/) again!
