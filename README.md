@@ -31,4 +31,5 @@ yolov4-tiny-opt.param <br/><br/>
 If you want to run the full YoloV4 version you need: <br/>
 yolov4.bin (download this 245 MB file from [Gdrive](https://drive.google.com/file/d/1dtkgOUKIeNdKRH5z9uTm-A6SUewjiBrj/view?usp=sharing))<br/>
 yolov4.param <br/><br/>
-Many thanks to [nihui](https://github.com/nihui/) again!
+Many thanks to [nihui](https://github.com/nihui/) again!<br/>
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://raw.githubusercontent.com/Tencent/ncnn/master/LICENSE.txt)
