@@ -1,7 +1,8 @@
 # YoloV4-ncnn-Raspberry-Pi-4
 ![output image]( https://qengineering.eu/images/Mumbai_YoloV4.jpg )
 
-## YoloV4 with the ncnn framework. [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+## YoloV4 with the ncnn framework. <br/><br/>
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 The frame rate is about 3 FPS (RPi 64 bit OS, overclocked to 1950 MHz)<br/>
 Paper: https://arxiv.org/pdf/2004.10934.pdf <br/>
 Size: 608x608 <br/><br/>
