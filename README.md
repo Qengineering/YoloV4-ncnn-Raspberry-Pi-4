@@ -11,7 +11,7 @@ To run the application, you have to:
 - A raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
 - OpenCV 64 bit installed. [Install OpenCV 4.3](https://qengineering.eu/install-opencv-4.3-on-raspberry-64-os.html) <br/>
-- Code::Blocks installed.
+- Code::Blocks installed. ($ sudo apt-get install codeblocks)
 ## Running the app.
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
