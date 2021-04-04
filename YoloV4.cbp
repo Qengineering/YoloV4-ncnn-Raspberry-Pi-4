@@ -20,7 +20,7 @@
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="traffic.jpg" />
+				<Option parameters="parking.jpg" />
 				<Compiler>
 					<Add option="-O2" />
 				</Compiler>
@@ -31,17 +31,25 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
-			<Add option="-fexceptions" />
+			<Add option="-Wno-unknown-pragmas" />
+			<Add option="-isystem" />
+			<Add option="-fPIE" />
+			<Add option="-fopenmp" />
 			<Add option="-pthread" />
+			<Add option="-DNDEBUG" />
 			<Add directory="/usr/local/include/opencv4" />
 			<Add directory="/usr/local/include/ncnn" />
 		</Compiler>
 		<Linker>
-			<Add option="`pkg-config --libs --cflags opencv4`" />
-			<Add option="-pthread" />
 			<Add option="-fopenmp" />
+			<Add option="`pkg-config --libs --cflags opencv4`" />
+			<Add option="-ldl" />
+			<Add option="-lpthread" />
+			<Add option="-pthread" />
+			<Add option="-lgomp" />
+			<Add option="-DNDEBUG" />
+			<Add option="-rdynamic" />
 			<Add library="/usr/local/lib/ncnn/libncnn.a" />
-			<Add directory="/usr/local/lib/" />
 		</Linker>
 		<Unit filename="yolov4.cpp" />
 		<Extensions>
