@@ -12,7 +12,7 @@ Special made for a bare Raspberry Pi 4 see [Q-engineering deep learning examples
 | ------------- | :-------------:  | :-------------: |
 | YoloV2 (416x416)      |  10.1 FPS | 3.0 FPS |
 | YoloV3 (352x352) tiny |  17.7 FPS | 4.4 FPS |
-| YoloV4 (416x416) tiny |  11.2 FPS | 3.4 FPS |
+| YoloV4 (416x416) tiny |  11.2 FPS | **3.4 FPS** |
 | YoloV4 (608x608) full |  0.7 FPS | 0.2 FPS |
 | YoloV5 (640x640) small|  4.0 FPS | 1.6 FPS |
 
