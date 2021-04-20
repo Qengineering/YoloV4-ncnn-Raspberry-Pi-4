@@ -23,7 +23,7 @@
 #include <stdio.h>
 #include <vector>
 
-//#define YOLOV4_TINY 1 //0 or undef for yolov4
+#define YOLOV4_TINY 1 //0 or undef for yolov4
 
 ncnn::Net yolov4;
 int target_size;
