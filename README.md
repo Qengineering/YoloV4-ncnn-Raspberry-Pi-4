@@ -49,7 +49,6 @@ Your *MyDir* folder must now look like this: <br/>
 parking.jpg <br/>
 busstop.jpg <br/>
 YoloV4.cpb <br/>
-yoloV4.cpp <br/>
 yolov4-tiny-opt.bin <br/>
 yolov4-tiny-opt.param <br/><br/>
 If you want to run the full YoloV4 version you need: <br/>
