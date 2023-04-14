@@ -154,7 +154,8 @@ int main(int argc, char** argv)
     yolov4.load_model("yolov4-opt.bin");
     target_size = 608;
 #endif
-
+    yolov4.opt.num_threads=4;
+    
     std::vector<Object> objects;
     detect_yolov4(m, objects);
     draw_objects(m, objects);
